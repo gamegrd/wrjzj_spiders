@@ -1,0 +1,11 @@
+*.*
+!*.py
+!.gitignore
+!*.cfg
+!*.project
+!README.md
+*.pyc
+story/
+!DS_Store
+!images
+.scrapy
